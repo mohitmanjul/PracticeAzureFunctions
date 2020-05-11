@@ -18,6 +18,11 @@
 			"label": "npm prune",
 			"command": "npm prune --production",
 			"problemMatcher": []
-		}
+		},
+		{
+			"type": "shell",
+			"label": "npm install mysql",
+			"command": "npm install mysql"
+		},
 	]
 }
