@@ -1,0 +1,2 @@
+# PracticeAzureFunctions
+Practice Azure Functions
